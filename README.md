@@ -1,0 +1,2 @@
+# agen-properti
+properti agen
